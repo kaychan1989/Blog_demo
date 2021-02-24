@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Blog_demo</title>
+    <link>https://kaychan1989.github.io/Blog_demo/</link>
+    <atom:link href="https://kaychan1989.github.io/Blog_demo/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Blog_demo
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Introduction to trauma informed care</title>
+      <dc:creator>Kay Chan</dc:creator>
+      <link>https://kaychan1989.github.io/Blog_demo/posts/2021-02-24-introduction-to-trauma-informed-care</link>
+      <description>A short description of the post.</description>
+      <category>visualization</category>
+      <category>Modeling</category>
+      <guid>https://kaychan1989.github.io/Blog_demo/posts/2021-02-24-introduction-to-trauma-informed-care</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://kaychan1989.github.io/Blog_demo/posts/2021-02-24-introduction-to-trauma-informed-care/introduction-to-trauma-informed-care_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to Blog_demo</title>
+      <dc:creator>Kay Chan</dc:creator>
+      <link>https://kaychan1989.github.io/Blog_demo/posts/welcome</link>
+      <description>Welcome to our new blog, Blog_demo. We hope you enjoy 
+reading what we have to say!</description>
+      <category>visualization</category>
+      <guid>https://kaychan1989.github.io/Blog_demo/posts/welcome</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

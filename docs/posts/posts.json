@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Blog_demo",
+    "description": "Welcome to our new blog, Blog_demo. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Kay Chan",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-24",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-24T10:30:50-08:00",
+    "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2021-02-24-introduction-to-trauma-informed-care/",
+    "title": "Introduction to trauma informed care",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Kay Chan",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-24",
+    "categories": [],
+    "contents": "\r\nLook at this plot down below. It’s got different font!\r\n\r\n\r\n#We change the upper just that our website does not produce every text fronm tidyverse\r\nlibrary(tidyverse)\r\nggplot(mtcars, aes(disp, mpg))+\r\n  geom_point()+\r\n  geom_smooth()\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-02-24-introduction-to-trauma-informed-care/introduction-to-trauma-informed-care_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-02-24T10:43:17-08:00",
+    "input_file": "introduction-to-trauma-informed-care.utf8.md"
+  }
+]
